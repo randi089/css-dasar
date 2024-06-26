@@ -1,0 +1,14 @@
+body {
+	background: black;
+}
+h1 {
+	color: blue;
+	font-family: arial;
+	font-size: 100px;
+}
+
+p {
+	color: yellow;
+	font-family: arial;
+	font-size: 50px;
+}
